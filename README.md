@@ -2,7 +2,7 @@
 
 ### ABOUT
   Name: *Elias Grubert*<br/>
-  Name User: *Modder-ofc*<br/>
+  Username: *Modder-ofc*<br/>
   Address: **Maripá, Paraná**<br/>
 
 ### CONTACT
